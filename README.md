@@ -4,6 +4,14 @@ A full-stack real-time chat application built using the **MERN stack** with **So
 
 ---
 
+## 🌐 Live Preview
+
+🔗 **Live Demo:** https://chat-app-4s2f.onrender.com/
+
+> ⚠️ Note: The app may take a few seconds to load initially because it is hosted on a free Render service.
+
+---
+
 ## 🚀 Features
 
 - 🔐 User authentication (Signup / Login / Logout)
@@ -37,6 +45,4 @@ A full-stack real-time chat application built using the **MERN stack** with **So
 
 ---
 
-<img width="1913" height="870" alt="Screenshot 2025-12-28 204714" src="https://github.com/user-attachments/assets/9054158f-b593-4dd6-b052-a27e09717199" />
-
-
+<img width="1913" height="870" alt="ChatApp Screenshot" src="https://github.com/user-attachments/assets/9054158f-b593-4dd6-b052-a27e09717199" />
